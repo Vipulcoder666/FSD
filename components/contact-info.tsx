@@ -18,7 +18,7 @@ export function ContactInfo() {
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">Phone</h4>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">+91  7897516265</p>
                 <p className="text-sm text-gray-500">24/7 Customer Support</p>
               </div>
             </div>
@@ -29,7 +29,7 @@ export function ContactInfo() {
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">Email</h4>
-                <p className="text-gray-600">support@stayease.com</p>
+                <p className="text-gray-600">support@vipul.com</p>
                 <p className="text-sm text-gray-500">We'll respond within 2 hours</p>
               </div>
             </div>
@@ -43,9 +43,9 @@ export function ContactInfo() {
                 <p className="text-gray-600">
                   123 Travel Street
                   <br />
-                  New York, NY 10001
+                  New Delhi, 223322
                   <br />
-                  United States
+                  India
                 </p>
               </div>
             </div>
