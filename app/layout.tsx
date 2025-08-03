@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: 'StayEase | Book Hotels in India',
+    default: 'StayEase | Book Hotels ',
     template: '%s | StayEase',
   },
   description: 'Explore premium hotels and book your stay easily with StayEase.',
