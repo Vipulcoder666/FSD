@@ -4,10 +4,14 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: {
+    default: 'StayEase | Book Hotels in India',
+    template: '%s | StayEase',
+  },
+  description: 'Explore premium hotels and book your stay easily with StayEase.',
+  generator: 'StayEase Generator',
 }
+
 
 export default function RootLayout({
   children,
